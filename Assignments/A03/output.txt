@@ -1,0 +1,90 @@
+Output with 6 Heaps:
+
+Highest priority in each Heap:
+
+Silver-backed fox 216.585
+
+Orca 569.3
+
+Cuis 268.903
+
+Pacific gull 309.907
+
+Dingo 265.579
+
+Duck, comb 151.633
+
+
+
+Heap 0
+======================
+Hoopoe, eurasian 211.825
+
+Bald eagle 159.744
+
+Raven, white-necked 35.9756
+
+Armadillo, nine-banded 155.834
+
+Creeper, black-tailed tree 35.9895
+
+Heap 1
+======================
+Red brocket 296.2
+
+Deer, savannah 260.071
+
+Nilgai 252.954
+
+Kirk's dik dik 253.287
+
+Grizzly bear 69.3862
+
+Heap 2
+======================
+Brown lemur 203.255
+
+Tree porcupine 168.327
+
+Wallaby, river 129.248
+
+Curve-billed thrasher 43.3397
+
+Galapagos mockingbird 31.09
+
+Heap 3
+======================
+Yellow baboon 260.711
+
+Godwit, hudsonian 227.338
+
+Seal, northern fur 46.1811
+
+Crow, american 86.2436
+
+Crested screamer 217.722
+
+Heap 4
+======================
+Stone sheep 247.649
+
+Toddy cat 155.031
+
+Black rhinoceros 215.435
+
+Glossy ibis 106.806
+
+Bear, american black 122.472
+
+Heap 5
+======================
+King vulture 107.54
+
+Hyrax 88.2248
+
+Blue waxbill 97.5182
+
+Kori bustard 74.1453
+
+Burmese brown mountain tortoise 0.01309
+
