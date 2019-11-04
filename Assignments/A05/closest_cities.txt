@@ -1,0 +1,264 @@
+Matt Stanley
+Program 3 - Closest Cities
+Closest 10 cities
+
+1 New York
+------------------------------
+1) Hoboken 4.12286
+2) Jersey City 6.2797
+3) West New York 8.37987
+4) Bayonne 10.3679
+5) Kearny 13.2808
+6) Newark 14.2534
+7) East Orange 17.823
+8) Elizabeth 18.0968
+9) Passaic 19.0462
+10) Hackensack 19.5107
+
+2 Los Angeles
+------------------------------
+1) Huntington Park 8.0305
+2) Glendale 10.0926
+3) Monterey Park 11.1903
+4) South Gate 11.2274
+5) Alhambra 11.764
+6) Montebello 12.6148
+7) Bell Gardens 12.8735
+8) San Gabriel 13.6018
+9) Lynwood 13.8809
+10) Pasadena 14.0094
+
+3 Chicago
+------------------------------
+1) Cicero 10.8986
+2) Oak Park 12.8307
+3) Berwyn 13.911
+4) Evanston 19.1723
+5) Skokie 19.4896
+6) Oak Lawn 20.1276
+7) Park Ridge 22.8653
+8) Glenview 24.9954
+9) Elmhurst 25.8157
+10) Des Plaines 27.162
+
+4 Houston
+------------------------------
+1) Pasadena 17.329
+2) Missouri City 22.6258
+3) Pearland 23.3379
+4) Sugar Land 30.0152
+5) Friendswood 30.4287
+6) Baytown 37.9816
+7) League City 38.6916
+8) Texas City 61.596
+9) Conroe 61.878
+10) Galveston 75.2963
+
+5 Philadelphia
+------------------------------
+1) Camden 4.88757
+2) Wilmington 39.8273
+3) Trenton 46.4267
+4) Vineland 53.1905
+5) Bethlehem 76.8698
+6) Reading 77.4958
+7) Allentown 77.9628
+8) New Brunswick 84.7925
+9) Sayreville 88.5554
+10) Atlantic City 91.1974
+
+6 Phoenix
+------------------------------
+1) Tempe 12.6943
+2) Glendale 14.4407
+3) Scottsdale 14.6404
+4) Peoria 21.1059
+5) Mesa 22.8099
+6) Avondale 25.608
+7) Goodyear 26.3558
+8) Chandler 26.7825
+9) Gilbert 28.5112
+10) Surprise 33.8579
+
+7 San Antonio
+------------------------------
+1) New Braunfels 47.2921
+2) San Marcos 73.8531
+3) Austin 118.438
+4) Cedar Park 136.593
+5) Pflugerville 140.823
+6) Round Rock 143.846
+7) Georgetown 155.699
+8) Victoria 160.272
+9) Killeen 202.107
+10) Corpus Christi 209.908
+
+8 San Diego
+------------------------------
+1) National City 7.14453
+2) Chula Vista 11.073
+3) La Mesa 14.147
+4) El Cajon 20.5426
+5) Santee 22.185
+6) Poway 29.8616
+7) Encinitas 37.7549
+8) Escondido 45.4018
+9) San Marcos 47.5531
+10) Carlsbad 52.2705
+
+9 Dallas
+------------------------------
+1) Irving 14.794
+2) Duncanville 17.3578
+3) Mesquite 18.5288
+4) Grand Prairie 19.0838
+5) Richardson 20.0923
+6) Lancaster 20.8784
+7) Garland 21.1355
+8) DeSoto 21.5366
+9) Carrollton 23.768
+10) Cedar Hill 25.6847
+
+10 San Jose
+------------------------------
+1) Santa Clara 6.34265
+2) Campbell 7.99241
+3) Milpitas 10.5315
+4) Cupertino 13.0063
+5) Sunnyvale 13.6905
+6) Mountain View 18.2496
+7) Fremont 25.0412
+8) Newark 25.2561
+9) Palo Alto 25.4397
+10) Morgan Hill 30.9038
+
+991 Aventura
+------------------------------
+1) Hallandale Beach 2.8976
+2) North Miami Beach 3.48923
+3) Hollywood 6.17073
+4) North Miami 8.77829
+5) Miami Gardens 10.7581
+6) Pembroke Pines 16.7012
+7) Miramar 16.7555
+8) Davie 17.4735
+9) Hialeah 17.717
+10) Fort Lauderdale 18.4546
+
+992 Martinez
+------------------------------
+1) Concord 10.1355
+2) Walnut Creek 13.5725
+3) Vallejo 14.275
+4) Berkeley 20.4386
+5) Richmond 20.9044
+6) Pittsburg 21.8715
+7) Danville 24.9426
+8) Oakland 26.7575
+9) Fairfield 26.8674
+10) Antioch 28.8104
+
+993 Greenfield
+------------------------------
+1) West Allis 6.16307
+2) New Berlin 7.97395
+3) Wauwatosa 9.79951
+4) Milwaukee 12.1954
+5) Brookfield 13.4113
+6) Waukesha 18.662
+7) Racine 32.1748
+8) Kenosha 44.7016
+9) Waukegan 67.8703
+10) Crystal Lake 83.8567
+
+994 Apache Junction
+------------------------------
+1) Gilbert 23.2841
+2) Mesa 26.164
+3) Chandler 29.6713
+4) Scottsdale 36.0175
+5) Tempe 36.2539
+6) Phoenix 48.8091
+7) Glendale 60.605
+8) Maricopa 61.0005
+9) Casa Grande 62.613
+10) Peoria 66.3804
+
+995 Monrovia
+------------------------------
+1) Arcadia 3.11456
+2) Baldwin Park 7.56869
+3) El Monte 8.73536
+4) Azusa 8.76689
+5) Rosemead 9.63157
+6) West Covina 10.2168
+7) San Gabriel 10.9598
+8) Covina 11.9145
+9) Glendora 12.605
+10) Alhambra 12.7359
+
+996 Weslaco
+------------------------------
+1) Pharr 19.6339
+2) Edinburg 23.3698
+3) McAllen 24.3603
+4) Harlingen 29.6148
+5) Mission 33.9563
+6) Brownsville 57.0211
+7) Corpus Christi 191.749
+8) Laredo 212.314
+9) Victoria 309.889
+10) San Antonio 366.359
+
+997 Keizer
+------------------------------
+1) Salem 5.2972
+2) Albany 39.8192
+3) Corvallis 50.8491
+4) Tigard 52.9526
+5) Lake Oswego 55.3896
+6) Beaverton 57.9386
+7) Hillsboro 59.3102
+8) Portland 65.2774
+9) Gresham 73.4394
+10) Vancouver 77.5557
+
+998 Spanish Fork
+------------------------------
+1) Provo 13.2234
+2) Orem 20.5105
+3) Lehi 34.9658
+4) Draper 48.8797
+5) Riverton 51.2639
+6) Sandy 52.4152
+7) South Jordan 54.9098
+8) West Jordan 60.0483
+9) Murray 64.4686
+10) Taylorsville 66.0004
+
+999 Beloit
+------------------------------
+1) Janesville 19.4263
+2) Rockford 26.8677
+3) Crystal Lake 65.8642
+4) DeKalb 68.4123
+5) Madison 69.654
+6) Carpentersville 76.8317
+7) Elgin 81.0281
+8) Waukesha 86.0293
+9) Streamwood 88.388
+10) Hoffman Estates 89.6905
+
+1000 Panama City
+------------------------------
+1) Dothan 121.135
+2) Tallahassee 136.034
+3) Pensacola 152.289
+4) Albany 213.393
+5) Mobile 235.831
+6) Valdosta 240.181
+7) Montgomery 252.934
+8) Columbus 263.839
+9) Phenix City 264.621
+10) Auburn 273.075
+
